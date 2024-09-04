@@ -1,0 +1,20 @@
+*{
+   font-family: 'poppins', sans-serif;
+}
+.nav-link{
+    color: black;
+    border-bottom: 1px solid transparent;
+}
+
+.nav-link:hover{
+    border-bottom: 1px solid #333;
+}
+.banner{
+    background-image: url(/image/slider.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0px;
+}
+.skills-padding{
+    padding:70px 0px;
+}
